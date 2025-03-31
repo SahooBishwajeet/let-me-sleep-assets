@@ -1,0 +1,9 @@
+{
+  "node_radius": 0.3,
+  "level_height": 1.0,
+  "animation_speed": 1.0,
+  "step_by_step": true,
+  "pause_time": 1.0,
+  "show_alpha_beta": false,
+  "pruning": false
+}

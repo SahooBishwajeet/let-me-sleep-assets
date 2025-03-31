@@ -1,0 +1,69 @@
+{
+  "root": {
+    "id": "A",
+    "children": [
+      {
+        "id": "B",
+        "children": [
+          {
+            "id": "D",
+            "children": [
+              {
+                "id": "H",
+                "value": 3
+              },
+              {
+                "id": "I",
+                "value": 5
+              }
+            ]
+          },
+          {
+            "id": "E",
+            "children": [
+              {
+                "id": "J",
+                "value": 6
+              },
+              {
+                "id": "K",
+                "value": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "C",
+        "children": [
+          {
+            "id": "F",
+            "children": [
+              {
+                "id": "L",
+                "value": 1
+              },
+              {
+                "id": "M",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "id": "G",
+            "children": [
+              {
+                "id": "N",
+                "value": 0
+              },
+              {
+                "id": "O",
+                "value": 7
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
